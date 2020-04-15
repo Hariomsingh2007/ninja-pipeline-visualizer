@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ninja-pipeline-visualizer/static/css/main.f19613fa.chunk.css",
+    "main.js": "/ninja-pipeline-visualizer/static/js/main.2c6f7e9f.chunk.js",
+    "main.js.map": "/ninja-pipeline-visualizer/static/js/main.2c6f7e9f.chunk.js.map",
+    "runtime-main.js": "/ninja-pipeline-visualizer/static/js/runtime-main.cda34fb0.js",
+    "runtime-main.js.map": "/ninja-pipeline-visualizer/static/js/runtime-main.cda34fb0.js.map",
+    "static/js/2.49e445b1.chunk.js": "/ninja-pipeline-visualizer/static/js/2.49e445b1.chunk.js",
+    "static/js/2.49e445b1.chunk.js.map": "/ninja-pipeline-visualizer/static/js/2.49e445b1.chunk.js.map",
+    "index.html": "/ninja-pipeline-visualizer/index.html",
+    "precache-manifest.422eddfb28f970f4130772d803a31b4d.js": "/ninja-pipeline-visualizer/precache-manifest.422eddfb28f970f4130772d803a31b4d.js",
+    "service-worker.js": "/ninja-pipeline-visualizer/service-worker.js",
+    "static/css/main.f19613fa.chunk.css.map": "/ninja-pipeline-visualizer/static/css/main.f19613fa.chunk.css.map",
+    "static/js/2.49e445b1.chunk.js.LICENSE.txt": "/ninja-pipeline-visualizer/static/js/2.49e445b1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ninja-pipeline-visualizer/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cda34fb0.js",
+    "static/js/2.49e445b1.chunk.js",
+    "static/css/main.f19613fa.chunk.css",
+    "static/js/main.2c6f7e9f.chunk.js"
+  ]
+}
