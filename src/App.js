@@ -1,24 +1,22 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Pipeline from './components/Pipeline_viz'
 
 function App() {
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+<div class="header">
+  <a href="#default" class="logo">Ninja Pipeline Visualizer</a>
+  <div class="header-right">
+    <a class="active" href="/">Home</a>
+    <a href="https://google.com">Contact</a>
+    <a href="/aboutus">About</a>
+  </div>
+</div>
+   <Pipeline />
+
     </div>
   );
 }
