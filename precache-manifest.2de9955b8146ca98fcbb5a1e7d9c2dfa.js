@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ce5f3dbc03968b7e59585bf6ea616ca",
+    "revision": "0fe5a69e4ea2fb42e5a41448acd32075",
     "url": "/ninja-pipeline-visualizer/index.html"
   },
   {
-    "revision": "10e8514b892b381274b5",
+    "revision": "f5db59b6254e380b5e0d",
     "url": "/ninja-pipeline-visualizer/static/css/main.f19613fa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ninja-pipeline-visualizer/static/js/2.49e445b1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10e8514b892b381274b5",
-    "url": "/ninja-pipeline-visualizer/static/js/main.2c6f7e9f.chunk.js"
+    "revision": "f5db59b6254e380b5e0d",
+    "url": "/ninja-pipeline-visualizer/static/js/main.6b363956.chunk.js"
   },
   {
     "revision": "c090ef64843fba64faa8",
